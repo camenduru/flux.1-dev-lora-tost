@@ -1,5 +1,5 @@
 {
-    "positive_prompt": "holding a sign that says 'I LOVE TOST!'",
+    "positive_prompt": "A cat holding a sign that says 'I LOVE TOST!'",
     "seed": 0,
     "steps": 20,
     "guidance": 3.5,
