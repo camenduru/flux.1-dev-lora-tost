@@ -3,7 +3,7 @@
     "seed": 0,
     "steps": 20,
     "guidance": 3.5,
-    "lora_url": "https://huggingface.co/TostAI/tost-flux-1-dev-lora/resolve/main/8iiu0y.safetensors",
+    "lora_url": "https://huggingface.co/TostAI/flux-1-dev-lora/resolve/main/8iiu0y.safetensors",
     "lora_strength_model": 1,
     "lora_strength_clip": 1,
     "sampler_name": "euler",
