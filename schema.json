@@ -54,6 +54,12 @@
       "type": "number",
       "description": "Guidance"
     },
+    "upload": {
+      "type": "string",
+      "widget": "upload",
+      "upload_url": "https://litterbox.catbox.moe/resources/internals/api.php",
+      "property": "lora_url"
+    },
     "lora_url": {
       "type": "string",
       "description": "Lora URL",
